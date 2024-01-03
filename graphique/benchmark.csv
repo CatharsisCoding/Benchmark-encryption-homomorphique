@@ -1,0 +1,6 @@
+algorithm,addition,multiplication
+concrete,0.03432059288,0.0317943096
+helib,5.97561e-05,0.00011775
+openfhe,2e-8,5.1e-8
+seal,1.2e-5,0,000457
+tfhe,9.478239237,21.948282199
